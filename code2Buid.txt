@@ -1,0 +1,1 @@
+code a project and add git to manage the project
